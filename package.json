@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "iced-coffee-script": "^108.0.8",
+        "icy": "^2.0.0",
+        "sanitize-filename": "^1.4.3"
+    },
+    "scripts": {
+        "start": "iced archiver.iced 'http://localhost:8000/di-progressive#../DI.fm Progressive' 'http://localhost:8000/pure-progressive#../Pure.fm Progressive'"
+    }
+}
